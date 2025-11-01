@@ -3,7 +3,7 @@
 <br>
 
 ## 👩‍💻 주로 사용하는 언어
-- ![Java](https://img.shields.io/badge/Java-E96420?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E96420?style=flat-square&logo=java&logoColor=white)
 <br>
 
 ## 🗂️ 디렉토리 구조
