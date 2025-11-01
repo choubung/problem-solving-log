@@ -8,7 +8,7 @@
 
 ## 🗂️ 디렉토리 구조
 - 각 문제의 풀이는 플랫폼과 난이도별로 분류하여 관리합니다.
-  - **SWEA**: swexpertacademy
+  - **SWEA**: SW Expert Academy
   - **Programmers**: 프로그래머스
 - 문제 폴더 안에는 해답 코드와 해결 과정 아카이빙 README가 포함되어 있습니다.
 ```
