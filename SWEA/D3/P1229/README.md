@@ -21,18 +21,17 @@
 
 ### 📑 새로운 문법(API)
 - **List**
+    - `.add(Object obj)` : 맨 뒤에 요소 추가
 
-  `.add(Object obj)` : 맨 뒤에 요소 추가
+    -  `.add(int index, Object obj)` : index에 obj 추가
 
-  `.add(int index, Object obj)` : index에 obj 추가
+    -  `.remove(int index)` : index번째 요소 삭제 (뒤의 요소들을 하나씩 땡김)
 
-  `.remove(int index)` : index번째 요소 삭제 (뒤의 요소들을 하나씩 땡김)
+    - `.remove(int index, ArrayList arr)` : index 위치에 arr 리스트 전체를 삽입
 
-  `.remove(int index, ArrayList arr)` : index 위치에 arr 리스트 전체를 삽입
+    - `.subList(int startIdx, int endIdx)` : 시작 위치부터 끝 위치 전까지의 범위 지정
 
-  `.subList(int startIdx, int endIdx)` : 시작 위치부터 끝 위치 전까지의 범위 지정
-
-  `.clear()` : 삭제
+    - `.clear()` : 삭제
 <br>
 
 ## 🤯 실수
