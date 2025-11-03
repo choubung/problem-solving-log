@@ -21,8 +21,6 @@
 
 ### 📑 새로운 문법(API)
 - **List**
-
-```
   `.add(Object obj)` : 맨 뒤에 요소 추가
 
   `.add(int index, Object obj)` : index에 obj 추가
@@ -34,7 +32,6 @@
   `.subList(int startIdx, int endIdx)` : 시작 위치부터 끝 위치 전까지의 범위 지정
 
   `.clear()` : 삭제
-```
 <br>
 
 ## 🤯 실수
