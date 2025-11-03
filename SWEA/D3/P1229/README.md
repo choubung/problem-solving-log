@@ -21,6 +21,7 @@
 
 ### 📑 새로운 문법(API)
 - **List**
+
   `.add(Object obj)` : 맨 뒤에 요소 추가
 
   `.add(int index, Object obj)` : index에 obj 추가
