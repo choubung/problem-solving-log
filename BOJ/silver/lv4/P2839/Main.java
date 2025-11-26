@@ -1,4 +1,4 @@
-package BAEKJOON.SILVER.lv4.P2839;
+package BOJ.silver.lv4.P2839;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

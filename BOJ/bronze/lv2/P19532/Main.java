@@ -1,4 +1,4 @@
-package BAEKJOON.bronze.lv2.P19532;
+package BOJ.bronze.lv2.P19532;
 
 import java.util.*;
 import java.io.*;
