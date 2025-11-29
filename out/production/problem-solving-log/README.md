@@ -8,12 +8,20 @@
 
 ## 🗂️ 디렉토리 구조
 - 각 문제의 풀이는 플랫폼과 난이도별로 분류하여 관리합니다.
+  - **BOJ**: 백준
   - **SWEA**: SW Expert Academy
   - **Programmers**: 프로그래머스
 - 문제 폴더 안에는 해답 코드와 해결 과정 아카이빙 README가 포함되어 있습니다.
 ```
 problem-solving-log/
+├── BOJ/
+│ ├── bronze/
+│ └── silver/
 ├── SWEA/
+│ ├── D2/
+│ │ └── P...
+│ │   ├── README.md (코드 해결 과정 아카이빙)
+│ │   └── Solution.java (해답 코드) 
 │ ├── D3/
 │ └── D4/
 └── Programmers/
