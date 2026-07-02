@@ -1,4 +1,4 @@
-package SWEA.D3.P2817;
+package swea.d3.P2817;
 
 import java.util.Scanner;
 

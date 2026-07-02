@@ -1,4 +1,4 @@
-package SWEA.D3.P1244;
+package swea.d3.P1244;
 
 import java.util.*;
 

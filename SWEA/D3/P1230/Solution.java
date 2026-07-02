@@ -1,4 +1,4 @@
-package SWEA.D3.P1230;
+package swea.d3.P1230;
 
 import java.util.Scanner;
 import java.util.List;

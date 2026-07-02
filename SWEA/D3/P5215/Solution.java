@@ -1,4 +1,4 @@
-package SWEA.D3.P5215;
+package swea.d3.P5215;
 
 import java.util.Scanner;
 

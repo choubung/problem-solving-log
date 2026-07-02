@@ -1,4 +1,4 @@
-package SWEA.D2.P1954;
+package swea.d2.p1954;
 
 import java.util.Scanner;
 
